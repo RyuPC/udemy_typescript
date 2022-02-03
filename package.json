@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RyuPC/udemy_typescript/issues"
   },
-  "homepage": "https://github.com/RyuPC/udemy_typescript#readme"
+  "homepage": "https://github.com/RyuPC/udemy_typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
